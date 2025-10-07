@@ -1,0 +1,10 @@
+.lorem-container {
+  max-width: 500px;
+  margin: 0 auto;
+  line-height: 1.7;
+  color: #a7a5a5;
+}
+
+.lorem-container p {
+  margin-bottom: 1.5rem;
+}

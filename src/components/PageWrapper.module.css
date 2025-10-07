@@ -8,3 +8,7 @@
 .lorem-container p {
   margin-bottom: 1.5rem;
 }
+
+.content-container {
+  overflow: hidden;
+}
